@@ -5,6 +5,9 @@ This project addresses two main objectives: creating a **customer segmentation r
 
 By analyzing customer attributes and comparing them with the general population, the project aims to identify key customer segments for a mail-order sales company. This segmentation is then used to inform a predictive model, enablimg targeted marketing efforts.
 
+## Blog Post
+For a detailed discussion of the analysis, insights and results of the project, refer to my [blog post here](https://medium.com/@helloworld_2024/customer-segmentation-and-campaign-response-prediction-deef31e35f04).
+
 ## Libraries and Tools Used
 - Data manipulation: pandas, numpy
 - Visualization: matplotlib, seaborn
@@ -12,7 +15,7 @@ By analyzing customer attributes and comparing them with the general population,
 - Data Preprocessing: SimpleImputer, StandardScaler
 
 ## Instructions
-1. DOWNLOAD THE DATA: Due to terms and conditions, the csv- and xlsx- files will not be uploaded to the repositoty. Please download the files separately from [Udacity](https://learn.udacity.com/nanodegrees/nd025/parts/cd1971/lessons/060c9981-1989-486c-b002-f4975ac590de/concepts/241b6561-2146-45e8-ab37-c4566d52e25a?lesson_tab=lesson)
+1. DOWNLOAD THE DATA: Due to terms and conditions, the csv- and xlsx- files will not be uploaded to the repository. Please download the files separately from [Udacity](https://learn.udacity.com/nanodegrees/nd025/parts/cd1971/lessons/060c9981-1989-486c-b002-f4975ac590de/concepts/241b6561-2146-45e8-ab37-c4566d52e25a?lesson_tab=lesson)
 2. SET UP ENVIRONMENT: Install the required Python packages listed in requirements.txt `pip install -r requirements.txt`
 3. RUN THE CODE: Data Preprocessing, Customer Segmentation, Model Training and Evaluation, Generate Predictions
 4. VIEW RESULTS
