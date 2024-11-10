@@ -33,6 +33,7 @@ For a detailed discussion of the analysis, insights and results of the project, 
 - requirements.txt
 - test_predictions.csv
 - gitignore
+- test_predictions.csv
 
 ## Project Steps and Analysis
 1. **Customer Segmentation Report**
